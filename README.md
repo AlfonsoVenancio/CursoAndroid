@@ -22,3 +22,5 @@ Este repositorio corresponde al curso básico de Android Studio para alumnos del
 1. Mapas
 1. Notificaciones
 1. Publicar una app
+
+_Nota: Este temario esta sujeto a cambios_
